@@ -1,4 +1,4 @@
-# Bryan Chung - HW 2: Stylization
+# Bryan Chung - HW 3: Jellyfish
 
 https://github.com/user-attachments/assets/f2e0a82b-c9f3-4c4d-b6ee-4fa0ffd0f185
 
